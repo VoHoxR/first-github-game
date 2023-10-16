@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://diyu3ja3krd7f"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_h3m85"]
+line_spacing = 20.0
+font_size = 150
+font_color = Color(1, 0, 0, 1)
+outline_size = 250
+outline_color = Color(1, 1, 0, 1)
+shadow_size = 500
+shadow_color = Color(0.843745, 0.540073, 0.760532, 1)
+shadow_offset = Vector2(20, 1)
+
+[node name="Label" type="Label"]
+offset_left = 109.0
+offset_top = 174.0
+offset_right = 977.0
+offset_bottom = 399.0
+text = "Kaden hood"
+label_settings = SubResource("LabelSettings_h3m85")
